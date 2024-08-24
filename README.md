@@ -12,7 +12,7 @@ O programa funciona lendo um arquivo TXT. Esse arquivo deve ser colocado na past
 
 **IMPORTANTE:**
 
-Ao especificar o nome do arquivo, **não inclua a extensão do arquivo**. O sistema completará automaticamente a extensão para você.
+Ao especificar o nome do arquivo, **não inclua a extensão do arquivo**. O programa completará automaticamente a extensão.
 
 **Exemplo:**
 
